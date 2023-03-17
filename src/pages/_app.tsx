@@ -8,7 +8,7 @@ import {FaWhatsapp} from 'react-icons/fa';
 function MyApp({ Component, pageProps }: AppProps) {
   return(
     <>
-       <a className="whats-link" href='https://wa.me/5511960814261/'>
+       <a className="whats-link" href='https://wa.me/5511991402859/'>
          <FaWhatsapp
           className="fa-whats"
           size={40} 
