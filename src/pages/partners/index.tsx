@@ -34,7 +34,26 @@ export default function Donate(){
                                 src='/images/idehm.jpeg'
                             />
                         </a>
-                        
+                        <a href="https://www.facebook.com/people/CMAS-Conselho-Municipal-de-Assist%C3%AAncia-Social-Osasco/100083377696277/?paipv=0&eav=AfaBVI1j81Ft1pjykBQFxNuZY_r08yMohp1dnMpodLtsNdUVaZhVDmwPEbHdebVKBMY&_rdr">
+                            <img 
+                                src='/images/cmas.jpeg'
+                            />
+                        </a>
+                        <a href="https://osasco.sp.gov.br/conselhos-tutelares-e-cmdca/">
+                            <img 
+                                src='/images/cmdca.jpeg'
+                            />
+                        </a>
+                        <a href="http://www.condeca.sp.gov.br/">
+                            <img 
+                                src='/images/condeca.jpeg'
+                            />
+                        </a>
+                        <a href="https://www2.sesc.com.br/portal/site/mesabrasilsesc/home//">
+                            <img 
+                                src='/images/mesa.jpeg'
+                            />
+                        </a>
                         
                     </section>
                 </div>             

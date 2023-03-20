@@ -28,7 +28,7 @@ export function Header(){
             <a>Parceiros</a>
           </ActiveLink>
           <ActiveLink  href="/donate" activeClassName={styles.active}>
-            <a>Doa aqui!</a>
+            <a>Doe aqui!</a>
           </ActiveLink>
         </nav>      
 

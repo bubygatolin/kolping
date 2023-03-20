@@ -3,7 +3,7 @@ import emailjs from '@emailjs/browser';
 import styles from './styles.module.scss';
 
 export default function Form(){
-    const [name, setName] = useState('')
+const [name, setName] = useState('')
 const [email, setEmail] = useState('')
 const [assunt, setAssunt] = useState('')
 const [message, setMessage] = useState('')
@@ -25,7 +25,7 @@ function sendEmail(e){
   email: email
  }
 
- emailjs.send('service_xtbtpdq', 'template_ba5g0tp', templateParams,'KszkBaHMIAJTyruYY')
+ emailjs.send("service_81gq1dm", "template_97s7k38", templateParams, "R9yCte2h4nRuXThcn")
  .then((response) => {
   console.log('enviado', response.status, response.text)
   setName('')

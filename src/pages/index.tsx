@@ -47,7 +47,7 @@ export default function Home({ content }: ContentProps) {
 
         <img 
             src="/images/banner.jpeg" 
-            alt="Conteúdos Sujeito Programador" 
+            alt="Conteúdo kolping são jose" 
         />
       </div>
 
