@@ -11,8 +11,12 @@ export default function Donate(){
                 <div className={styles.containerDonate}>
                     <section className={styles.ctaText}>
                         <h1>DOE AGORA!</h1>
-                        <span>Com seu apoio, podemos chegar a mais estudantes. Acesse a plataforma de doação Abrace uma Causa e contribua com nossos projetos.</span>
+                        <span>Com seu apoio, podemos chegar a mais pessoas. Acesse a plataforma de doação Abrace uma Causa e contribua com nossos projetos.</span>
                         <br></br>
+                        <img 
+                            src="/images/doe.jpeg" 
+                            alt="Conteúdos kolping" 
+                        />                        
                             <button>
                              <form action="https://www.paypal.com/donate" method="post" target="_top">
                                 <input type="hidden" name="hosted_button_id" value="4QHYG8MJZP92N" />
@@ -21,13 +25,9 @@ export default function Donate(){
                              </form>
 
                             </button>
-                        </section>
+                    </section>
                         
-                        <img 
-                            src="/images/banner.jpeg" 
-                            alt="Conteúdos Sujeito Programador" 
-                        />
-                        
+                       
                 </div>
             </main>
 
