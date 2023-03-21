@@ -54,6 +54,17 @@ export default function Donate(){
                                 src='/images/mesa.jpeg'
                             />
                         </a>
+                        <a href="https://kolping.org.br/">
+                            <img 
+                                src='/images/kpb.png'
+                            />
+                        </a>
+                        <a  href="https://kolping-sp.org.br/">
+                            <img 
+                                src='/images/kpsp.png'
+                               
+                            />
+                        </a>
                         
                     </section>
                 </div>             
