@@ -12,7 +12,7 @@ export default function Donate(){
                 <div className={styles.containerParceiros}>
                     <section className={styles.ctaText}>
                         <h1>Nossos Parceiros!</h1>
-                        <span>Com seu apoio, podemos chegar a mais estudantes. Acesse a plataforma de doação Abrace uma Causa e contribua com nossos projetos educacionais.</span>
+                        <span>Com seu apoio, podemos chegar a mais beneficiários. Acesse a plataforma de doação Abrace uma Causa e contribua com nossos projetos sociais.</span>
                     </section>                   
                           
                 </div>
