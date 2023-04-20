@@ -31,7 +31,7 @@ export default function Home({ content }: ContentProps) {
   return (
    <>
     <Head>
-      <title>Terceiro setor - ODS</title>
+      <title>Kolping Vila São José</title>
     </Head>
     <main className={styles.container}>
       <div className={styles.containerHeader}>
