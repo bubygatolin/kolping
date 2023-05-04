@@ -37,6 +37,23 @@
           "allowTargetBlank": true,
           "multi": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
         }
+      },
+      "link_donate": {
+        "type": "Link",
+        "config": {
+          "label": "link donate",
+          "placeholder": "Doe ja ",
+          "allowTargetBlank": true,
+          "select": null
+        }
+      },
+      "teste": {
+        "type": "Image",
+        "config": {
+          "label": "teste",
+          "constraint": {},
+          "thumbnails": []
+        }
       }
     }
   }

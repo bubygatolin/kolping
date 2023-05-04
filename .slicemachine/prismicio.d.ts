@@ -153,6 +153,28 @@ interface PostDocumentData {
      *
      */
     description: prismicT.RichTextField;
+    /**
+     * link donate field in *post*
+     *
+     * - **Field Type**: Link
+     * - **Placeholder**: Doe ja
+     * - **API ID Path**: post.link_donate
+     * - **Tab**: Main
+     * - **Documentation**: https://prismic.io/docs/core-concepts/link-content-relationship
+     *
+     */
+    link_donate: prismicT.LinkField;
+    /**
+     * teste field in *post*
+     *
+     * - **Field Type**: Image
+     * - **Placeholder**: *None*
+     * - **API ID Path**: post.teste
+     * - **Tab**: Main
+     * - **Documentation**: https://prismic.io/docs/core-concepts/image
+     *
+     */
+    teste: prismicT.ImageField<never>;
 }
 /**
  * post document from Prismic
